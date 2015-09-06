@@ -9,7 +9,7 @@
 			<array>
 				<dict>
 					<key>kind</key>
-					<string>software-package</string>
+					<string>EFS_APP</string>
 					<key>url</key>
 					<string>http://app.esteemacfd.com/efs.ipa</string>
 				</dict>
